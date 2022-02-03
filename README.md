@@ -36,7 +36,7 @@ AI Based Chatbot
    
 4. Open **https://web.telegram.org/** in your browser and search for ccnlp17bot named librbot.
 
-5. You're done and let's chat with your Robot via browser.
+5. You're done and let's chat with your Robot.
 
 
 
