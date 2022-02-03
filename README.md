@@ -18,8 +18,8 @@ AI Based Chatbot
     pip
 
 ## Screenshot
-![chatbot](https://github.com/SinhaShambhavi/LibrarianBot/blob/main/screenshot.jpg)
 ![chatbot](https://github.com/SinhaShambhavi/LibrarianBot/blob/main/screenshot1.jpg)
+![chatbot](https://github.com/SinhaShambhavi/LibrarianBot/blob/main/screenshot.jpg)
 
 
 ## Installation
