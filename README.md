@@ -17,6 +17,9 @@ AI Based Chatbot
     google-api-python-client
     pip
 
+## Screenshot
+![chatbot](https://github.com/SinhaShambhavi/LibrarianBot/blob/main/screenshot.jpg)
+![chatbot](https://github.com/SinhaShambhavi/LibrarianBot/blob/main/screenshot1.jpg)
 
 
 ## Installation
